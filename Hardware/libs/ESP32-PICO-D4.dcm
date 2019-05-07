@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-PICO-D4
+D RF System on a Chip - SoC LGA48-pin, 7*7mm
+F https://componentsearchengine.com/Datasheets/1/ESP32-PICO-D4.pdf
+$ENDCMP
+#
+#End Doc Library

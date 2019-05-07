@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/libs/Type-C.lib)(options "")(descr ""))
+  (lib (name CP2102N-A01-GQFN28)(type Legacy)(uri ${KIPRJMOD}/libs/CP2102N-A01-GQFN28.lib)(options "")(descr ""))
+  (lib (name ESP32-PICO-D4)(type Legacy)(uri ${KIPRJMOD}/libs/ESP32-PICO-D4.lib)(options "")(descr ""))
+  (lib (name PRO-OB-440)(type Legacy)(uri ${KIPRJMOD}/libs/PRO-OB-440.lib)(options "")(descr ""))
+  (lib (name FDN340P)(type Legacy)(uri ${KIPRJMOD}/libs/FDN340P.lib)(options "")(descr ""))
+  (lib (name XB6566H0)(type Legacy)(uri ${KIPRJMOD}/libs/XB6566H0.lib)(options "")(descr ""))
+  (lib (name SL4054ST25P)(type Legacy)(uri ${KIPRJMOD}/libs/SL4054ST25P.lib)(options "")(descr ""))
+  (lib (name lir2450)(type Legacy)(uri ${KIPRJMOD}/libs/lir2450.lib)(options "")(descr ""))
+)

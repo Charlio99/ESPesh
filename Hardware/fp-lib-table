@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/libs/Type-C.pretty)(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri ${KIPRJMOD}/libs/WS2812B.pretty)(options "")(descr ""))
+  (lib (name Pads)(type KiCad)(uri ${KIPRJMOD}/libs/Pads.pretty)(options "")(descr ""))
+  (lib (name CP2102N)(type KiCad)(uri ${KIPRJMOD}/libs/CP2102N.pretty)(options "")(descr ""))
+  (lib (name ESP32-PICO-D4)(type KiCad)(uri ${KIPRJMOD}/libs/ESP32-PICO-D4.pretty)(options "")(descr ""))
+  (lib (name PRO-OB-440)(type KiCad)(uri ${KIPRJMOD}/libs/PRO-OB-440.pretty)(options "")(descr ""))
+  (lib (name FDN340P)(type KiCad)(uri ${KIPRJMOD}/libs/FDN340P.pretty)(options "")(descr ""))
+  (lib (name LIR2450)(type KiCad)(uri ${KIPRJMOD}/libs/LIR2450.pretty)(options "")(descr ""))
+  (lib (name CustomFootprints)(type KiCad)(uri ${KIPRJMOD}/libs/CustomFootprints.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XB6566H0
+D One Cell Lithium-ion/Polymer Battery Protection IC, low power, DFN-6
+K linear regulator ldo adjustable positive low noise low quienscent current
+F https://datasheet.lcsc.com/szlcsc/XySemi-XB6566H0_C190847.pdf
+$ENDCMP
+#
+#End Doc Library

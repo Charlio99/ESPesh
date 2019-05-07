@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# PRO-OB-440
+#
+DEF PRO-OB-440 ANT 0 30 Y Y 1 F N
+F0 "ANT" 900 350 50 H V L CNN
+F1 "PRO-OB-440" 700 250 50 H V L CNN
+F2 "PRO-OB-440_1" 1150 100 50 H I L CNN
+F3 "http://www.proant.se/files/user/Datasheet%20-%20OnBoard%20SMD%202400%20MHz%20rev%202.0.pdf" 1150 0 50 H I L CNN
+F4 "OnBoard SMD  2400 antenna" 1150 -100 50 H I L CNN "Description"
+F5 "Proant AB" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F6 "PRO-OB-440" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+S 850 200 1100 -300 0 1 6 N
+X GND 1 1300 100 200 L 50 50 0 0 B
+X RF 2 1300 0 200 L 50 50 0 0 B
+X NC_1 3 1300 -100 200 L 50 50 0 0 B
+X NC_2 4 1300 -200 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+#End Library

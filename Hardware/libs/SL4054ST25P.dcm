@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SL4054ST25P
+D PMIC Battery Managment 600mA, SOT-23-5
+K battery manament lipo
+F https://datasheet.lcsc.com/szlcsc/TECHFUSE-SL4054ST25P_C258510.pdf
+$ENDCMP
+#
+#End Doc Library

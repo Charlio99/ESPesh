@@ -1,0 +1,15 @@
+(module RoundPad (layer F.Cu) (tedit 5CD0F2E3)
+  (fp_text reference D21 (at 0.030379 -1.532093 99) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text value Conn_01x01 (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd custom (at 0 0) (size 1.27 1.27) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly (pts
+         (xy 0 0.635) (xy 0.635 0.635) (xy 0.635 -0.635) (xy 0 -0.635)) (width 0))
+    ))
+)
