@@ -1,6 +1,10 @@
 # ESPesh
 
-[![Build Status](https://travis-ci.org/Charlio99/ESPesh.svg?branch=master)](https://travis-ci.org/Charlio99/ESPesh)
+[![GPL license](https://img.shields.io/github/license/Charlio99/ESPesh.svg?color=blue)](http://perso.crans.org/besson/LICENSE.html)
+[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg)](https://GitHub.com/Charlio99/ESPesh/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![GitHub release](https://img.shields.io/github/release/Charlio99/ESPesh.svg)](https://GitHub.com/Charlio99/ESPesh/releases/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Charlio99/ESPesh.svg)](https://GitHub.com/Charlio99/ESPesh/graphs/contributors/)
 
 ![ESPesh](Images/ESPeshTop.png)
 
