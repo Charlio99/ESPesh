@@ -1278,4 +1278,30 @@ Text Label 1250 6750 0    50   ~ 0
 IO23
 Text Label 1250 7100 0    50   ~ 0
 IO25
+$Comp
+L Connector_Generic:Conn_01x01 J7
+U 1 1 5CD16D43
+P 950 7450
+F 0 "J7" H 870 7225 50  0000 C CNN
+F 1 "Conn_01x01" H 870 7316 50  0000 C CNN
+F 2 "CustomFootprints:RoundPad" H 950 7450 50  0001 C CNN
+F 3 "~" H 950 7450 50  0001 C CNN
+	1    950  7450
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0129
+U 1 1 5CD16ED6
+P 1300 7500
+F 0 "#PWR0129" H 1300 7250 50  0001 C CNN
+F 1 "GND" H 1305 7327 50  0000 C CNN
+F 2 "" H 1300 7500 50  0001 C CNN
+F 3 "" H 1300 7500 50  0001 C CNN
+	1    1300 7500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1150 7450 1300 7450
+Wire Wire Line
+	1300 7450 1300 7500
 $EndSCHEMATC

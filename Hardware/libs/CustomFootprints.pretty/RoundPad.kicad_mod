@@ -1,5 +1,5 @@
-(module RoundPad (layer F.Cu) (tedit 5CD0F2E3)
-  (fp_text reference D21 (at 0.030379 -1.532093 99) (layer F.SilkS)
+(module RoundPad (layer F.Cu) (tedit 5CD116AC)
+  (fp_text reference J2 (at 0.05 -1.2) (layer F.SilkS)
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
   (fp_text value Conn_01x01 (at 0 -0.5) (layer F.Fab)
