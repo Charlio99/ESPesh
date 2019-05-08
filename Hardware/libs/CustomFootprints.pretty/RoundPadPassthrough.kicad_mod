@@ -1,0 +1,15 @@
+(module RoundPadPassthrough (layer F.Cu) (tedit 5CD1F0A9)
+  (fp_text reference D21 (at 0.025648 -1.096613) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text value Conn_01x01 (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole custom (at 0.025648 -0.021613 270) (size 1.27 1.27) (drill 0.6) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly (pts
+         (xy 0 0.635) (xy 0.635 0.635) (xy 0.635 -0.635) (xy 0 -0.635)) (width 0))
+    ))
+)
