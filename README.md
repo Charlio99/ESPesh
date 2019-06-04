@@ -1,6 +1,6 @@
 # ESPesh
 
-[![GPL license](https://img.shields.io/github/license/Charlio99/ESPesh.svg?color=blue)](http://perso.crans.org/besson/LICENSE.html)
+[![GPL license](https://img.shields.io/github/license/Charlio99/ESPesh.svg?color=blue)](https://github.com/cc-archive/legalcode-pre-2014-06-26/blob/master/by-nc-sa_4.0.html)
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg)](https://GitHub.com/Charlio99/ESPesh/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![GitHub release](https://img.shields.io/github/release/Charlio99/ESPesh.svg)](https://GitHub.com/Charlio99/ESPesh/releases/)
@@ -65,8 +65,6 @@ Take in account that some components must be ordered in larger batches that the 
 
 ### License
 
-GNU Public License 3.0
-Please, if you pretend to use it for comercial uses, contact me before
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
-
-**Free Software, Hell Yeah!**
+**Open Source, Hell Yeah!**
